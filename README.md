@@ -1,6 +1,6 @@
 Hi , Im just strolling
 
-~This account made because i wanna learn about github and how programmer use github~
+✨This account made because i wanna learn about github and how programmer use github✨
 
 <!---
 B-Mang/B-Mang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
